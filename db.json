@@ -53,8 +53,10 @@
     "type": "Shrug bag",
     "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/8-0.jpg",
     "price": 198
-  },
-  {
+  }],
+    
+  "comments":[
+      {
     "id": "424913",
     "type": "Gilt desk trio",
     "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/9-0.jpg",
